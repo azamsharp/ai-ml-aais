@@ -3,8 +3,8 @@
 ## Conditionals and Working with Strings 
 
 - [Activity 1 - String Interpolation](/module1/resources/string-interop.md)
-- [Activity 2 - Vowel](day2/activities/vowel.md)
-- [Activity 3 - Tip Calculator](day2/activities/tip-calculator.md))
+- [Activity 2 - Vowel](/module1/resources//vowel.md)
+- [Activity 3 - Tip Calculator](/module1/resources/tip-calculator.md))
 - [Assignment - Calculator, Even/Odd, FizzBuz](day2/assignments/calc.md)
 - [Python Additional Exercises](https://learnpythonthehardway.org/book/)
 - [Class Code](day2/code-downloads/hello-python.zip)
