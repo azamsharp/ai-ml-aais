@@ -1,4 +1,4 @@
-# AAIS-302: Artificial Intelligence, Machine Learning, and Data Science Programming with Python. 
+# Module 2: Artificial Intelligence, Machine Learning, and Data Science Programming with Python. 
 
 ## Installing and Setting Up Mini Conda and Environments 
 - [Download Miniconda](https://docs.anaconda.com/free/miniconda/index.html)
@@ -18,6 +18,8 @@
 - Show using Create ML about classification and regression. Cats vs Dogs (Classification), Home Prices (Regression)
 
 ## Unsupervised Learning 
+
+- Deep Learning 
 
 
 

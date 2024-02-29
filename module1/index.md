@@ -1,4 +1,4 @@
-# AAIS-202 - Introduction to Python Programming
+# Module 1 - Introduction to Python Programming
 
 ## Conditionals and Working with Strings 
 
