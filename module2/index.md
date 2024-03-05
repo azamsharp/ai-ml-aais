@@ -1,13 +1,17 @@
 # Module 2: Artificial Intelligence, Machine Learning, and Data Science Programming with Python. 
 
-## Installing and Setting Up Mini Conda and Environments 
-- [Download Miniconda](https://docs.anaconda.com/free/miniconda/index.html)
-- [Instructions on how to install and configure Miniconda and Jupyter Notebook](/week2/resources/mini-conda-install-instructions.md)
+## Mini Conda and Jupyter Notebook 
+- [Download Mini Conda](https://docs.anaconda.com/free/miniconda/index.html)
+- 
 
-## Jupyter and Pandas 
+## Google Colab 
+- [Google Colab](https://colab.research.google.com/)
 
-- [Car Prices CSV](/week2/resources/car-prices.csv)
-- [Download the Jupyter Notebook]
+## Google Colab and Pandas 
+
+- [House Prices Class Work](https://colab.research.google.com/drive/1KF9jFLm59cp_9ZNkFFuRXgsBYL5IVO6B?usp=sharing)
+- [Car Prices Activity](/module2/resources/car-prices-activity.md)
+- [Heart Disease Activity](/module2/resources/heart-disease-activity.md)
 
 ## Data Frame 
 

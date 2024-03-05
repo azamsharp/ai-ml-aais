@@ -1,5 +1,5 @@
 
-Make,Model,Year,Mileage (in km),Condition,Price (in $)
+Make,Model,Year,Mileage (in km),Condition,Price
 Toyota,Corolla,2018,30000,Good,15000
 Toyota,Camry,2019,25000,Excellent,22000
 Honda,Civic,2017,40000,Fair,14000
