@@ -10,6 +10,7 @@
 ## Google Colab and Pandas 
 
 - [House Prices Class Work](https://colab.research.google.com/drive/1KF9jFLm59cp_9ZNkFFuRXgsBYL5IVO6B?usp=sharing)
+- [House Prices (fillna) Activity](/module2/resources/house-prices-fillna.md)
 - [Car Prices Activity](/module2/resources/car-prices-activity.md)
 - [Heart Disease Activity](/module2/resources/heart-disease-activity.md)
 
