@@ -13,10 +13,13 @@
 - [House Prices (fillna) Activity](/module2/resources/house-prices-fillna.md)
 - [Car Prices Activity](/module2/resources/car-prices-activity.md)
 - [Heart Disease Activity](/module2/resources/heart-disease-activity.md)
+- [Download Class Code Pandas](resources/pandas-302.ipynb)
 
-## Data Frame 
+## Data Visualization Using Matplotlib 
 
-## Pandas and Visualization Using Matplotlib 
+- [Matplotlib Official Website](https://matplotlib.org/)
+- [Activity - Student Scores](resources/student-scores-graph.md)
+- [Activity - Monthly Sales](resources/monthly-sales.md)
 
 ## Supervised Learning, Classification, Regression and Decision Trees  
 
