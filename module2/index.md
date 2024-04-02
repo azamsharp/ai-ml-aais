@@ -1,8 +1,10 @@
 # Module 2: Artificial Intelligence, Machine Learning, and Data Science Programming with Python. 
 
+## Understanding Machine Learning 
+
+
 ## Mini Conda and Jupyter Notebook 
 - [Download Mini Conda](https://docs.anaconda.com/free/miniconda/index.html)
-- 
 
 ## Google Colab 
 - [Google Colab](https://colab.research.google.com/)
@@ -25,9 +27,8 @@
 
 - Show using Create ML about classification and regression. Cats vs Dogs (Classification), Home Prices (Regression)
 
-## Unsupervised Learning 
-
-- Deep Learning 
+- Grouping mammal sleep habits using k-means clustering 
+- 10.2 Analyzing factors in forest fire data using PCA 
 
 
 
