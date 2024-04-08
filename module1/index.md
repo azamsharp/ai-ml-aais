@@ -69,6 +69,7 @@
 - [Pool Table Project - Multi Day Project - Due 09/23/2022 @ 4:00 PM CST](day3/assignments/pool-table-app.md)
 - [Class Code](day3/code-downloads/writing-files.zip)
 - [Class Code 09-21-2022](https://gist.github.com/azamsharp/daf604477d37fa62340f5169a29a6770)
+- [Activity - Aggregate Sales Data](/module1/resources/aggregate-sales-data.md)
 
 --- 
 ## JSON Files 
