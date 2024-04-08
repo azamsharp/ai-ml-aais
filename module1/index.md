@@ -70,6 +70,7 @@
 - [Class Code](day3/code-downloads/writing-files.zip)
 - [Class Code 09-21-2022](https://gist.github.com/azamsharp/daf604477d37fa62340f5169a29a6770)
 - [Activity - Aggregate Sales Data](/module1/resources/aggregate-sales-data.md)
+- [Activity - CSV Parser](/module1/resources/csv-parser.md)
 
 --- 
 ## JSON Files 
