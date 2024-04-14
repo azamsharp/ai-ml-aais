@@ -27,6 +27,21 @@ conda activate [path to the environment]
 - [Activity - Student Scores](resources/student-scores-graph.md)
 - [Activity - Monthly Sales](resources/monthly-sales.md)
 
+- [Practice Exercise Module 1A](resources/exercise-module1A.md)
+- [Practice Exercise Module 1B](resources/exercuse-module1B.md)
+- [Practice Exercise Module 2A](resources/exercise-module2A.md) 
+- [Practice Exercise Module 2B](resources/exercise-module2B.md) 
+- [Practice Exercise Module 3A](resources/exercise-module3A.md) 
+- [Practice Exercise Module 3B](resources/exercise-module3B.md) 
+- [Practice Exercise Module 4A](resources/exercise-module4A.md) 
+- [Practice Exercise Module 4B](resources/exercise-module4B.md) 
+- [Practice Exercise Module 5A](resources/exercise-module5A.md) 
+- [Practice Exercise Module 5B](resources/exercise-module5B.md) 
+
+
+
+
+
 ## Supervised Learning, Classification, Regression and Decision Trees  
 
 - Show using Create ML about classification and regression. Cats vs Dogs (Classification), Home Prices (Regression)
