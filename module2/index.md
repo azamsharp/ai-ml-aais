@@ -20,6 +20,9 @@ conda activate [path to the environment]
 - [House Prices (fillna) Activity](/module2/resources/house-prices-fillna.md)
 - [Car Prices Activity](/module2/resources/car-prices-activity.md)
 - [Heart Disease Activity](/module2/resources/heart-disease-activity.md)
+
+- [Carvana Activity](/module2/resources/carvana-activity.md)
+
 - [Download Class Code Pandas](resources/pandas-302.ipynb)
 - [Activity - One Hot Encoding](resources/one-hot-encoding.md)
 

@@ -10,8 +10,6 @@ Instructions:
 - Load the dataset into a pandas DataFrame.
 - Display the first few rows of the dataset.
 - Check the dimensions of the dataset (number of rows and columns).
-- Check the data types of each column.
-- Calculate summary statistics for numerical columns.
 - Count the number of unique values in the "Make" column.
 - Filter the dataset to show only cars with "Good" condition.
 - Calculate the average price of cars with "Excellent" condition.
