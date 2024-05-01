@@ -6,7 +6,7 @@ In this assignment, you'll work with linear regression in Python using the sciki
 **Assignment Structure:**
 
 1. **Data Loading and Exploration:**
-    - Load the dataset (you can use `load_boston()` from scikit-learn datasets or any other suitable dataset).
+    - Load the dataset [Boston Home Prices](boston-home-prices.csv)
     - Explore the dataset by displaying basic statistics and visualizing features and the target variable.
 
 2. **Data Preparation:**
