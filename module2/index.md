@@ -30,6 +30,8 @@ conda activate [path to the environment]
 - [Activity - Student Scores](resources/student-scores-graph.md)
 - [Activity - Monthly Sales](resources/monthly-sales.md)
 
+- [Logistic Regression - Cancer Diagnostics](resources/cancer-diagnostics.md)
+
 - [Practice Exercise Module 1A](resources/exercise-module1A.md)
 - [Practice Exercise Module 1B](resources/exercuse-module1B.md)
 - [Practice Exercise Module 2A](resources/exercise-module2A.md) 
