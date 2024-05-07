@@ -32,6 +32,8 @@ conda activate [path to the environment]
 
 - [Logistic Regression - Cancer Diagnostics](resources/cancer-diagnostics.md)
 
+- [KNearest Neighbors Classification Article](https://www.freecodecamp.org/news/k-nearest-neighbors-algorithm-classifiers-and-model-example/)
+
 - [Practice Exercise Module 1A](resources/exercise-module1A.md)
 - [Practice Exercise Module 1B](resources/exercuse-module1B.md)
 - [Practice Exercise Module 2A](resources/exercise-module2A.md) 
