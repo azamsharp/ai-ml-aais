@@ -6,7 +6,7 @@ In this assignment, you'll work with a real-world dataset to perform data explor
 **Dataset Description:**
 You'll use the "House Prices: Advanced Regression Techniques" dataset, which contains various features related to residential homes in Ames, Iowa. The dataset includes features such as lot area, number of bedrooms, number of bathrooms, and sale price.
 
-You can download the "House Prices: Advanced Regression Techniques" dataset from the following link: [House Prices Dataset](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
+[Download Dataset](home-prices-module3A.csv)
 
 **Assignment Tasks:**
 
