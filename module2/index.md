@@ -16,25 +16,37 @@ conda activate [path to the environment]
 - Machine Learning Categories 
 - Machine Learning Toolbox 
 - Pandas 
-- [House Prices Class Work](https://colab.research.google.com/drive/1KF9jFLm59cp_9ZNkFFuRXgsBYL5IVO6B?usp=sharing)
-- [House Prices (fillna) Activity](/module2/resources/house-prices-fillna.md)
-- [Car Prices Activity](/module2/resources/car-prices-activity.md)
-- [Heart Disease Activity](/module2/resources/heart-disease-activity.md)
 
-- [Carvana Activity](/module2/resources/carvana-activity.md)
 
 - [Download Class Code Pandas](resources/pandas-302.ipynb)
-- [Activity - One Hot Encoding](resources/one-hot-encoding.md)
 
 - [Matplotlib Official Website](https://matplotlib.org/)
+
+### Linear Regression
+- [House Prices Class Work](https://colab.research.google.com/drive/1KF9jFLm59cp_9ZNkFFuRXgsBYL5IVO6B?usp=sharing)
+- [Activity - One Hot Encoding](resources/one-hot-encoding.md)
+
+- [House Prices (fillna) Activity](/module2/resources/house-prices-fillna.md)
+- [Car Prices Activity](/module2/resources/car-prices-activity.md)
+- [Carvana Activity](/module2/resources/carvana-activity.md)
 - [Activity - Student Scores](resources/student-scores-graph.md)
 - [Activity - Monthly Sales](resources/monthly-sales.md)
 
+### Logistic Regression
+
+- [Heart Disease Activity](/module2/resources/heart-disease-activity.md)
+
 - [Logistic Regression - Cancer Diagnostics](resources/cancer-diagnostics.md)
+
+### K-Nearest Neighbors 
 
 - [KNearest Neighbors Classification Article](https://www.freecodecamp.org/news/k-nearest-neighbors-algorithm-classifiers-and-model-example/)
 
-- [Decision Tree Activity]()
+### Decision Tree
+- [Churn Rate](resources/dt-activity.md)
+- [Movie Genre](resources/dt-movie-genre.md)
+
+### Practice Exercises 
 
 - [Practice Exercise Module 1A](resources/exercise-module1A.md)
 - [Practice Exercise Module 1B](resources/exercuse-module1B.md)
@@ -46,9 +58,6 @@ conda activate [path to the environment]
 - [Practice Exercise Module 4B](resources/exercise-module4B.md) 
 - [Practice Exercise Module 5A](resources/exercise-module5A.md) 
 - [Practice Exercise Module 5B](resources/exercise-module5B.md) 
-
-
-
 
 
 ## Supervised Learning, Classification, Regression and Decision Trees  
