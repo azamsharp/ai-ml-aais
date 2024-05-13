@@ -45,6 +45,7 @@ conda activate [path to the environment]
 ### Decision Tree
 - [Churn Rate](resources/dt-activity.md)
 - [Movie Genre](resources/dt-movie-genre.md)
+- [Applicant Job Acceptance](resources/job-acceptance.md)
 
 ### Practice Exercises 
 
