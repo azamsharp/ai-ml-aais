@@ -6,7 +6,7 @@ In this assignment, you'll delve into the logistic regression algorithm, a funda
 **Dataset Description:**
 For this assignment, you'll use the "Adult Income" dataset, which contains information about individuals' demographic and employment-related attributes, along with their income level (whether it exceeds $50K per year or not).
 
-You can download the "Adult Income" dataset from the following link: [Adult Income Dataset](https://archive.ics.uci.edu/ml/datasets/adult)
+You can download the "Adult Income" dataset from the following link: [Adult Income Dataset](adult-income-dataset.csv)
 
 **Assignment Tasks:**
 
