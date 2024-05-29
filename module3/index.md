@@ -1,17 +1,7 @@
 
 # Module 3 - Deep Learning 
 
-## Applying Neural Networks in Real World Scenario 
+### Resources: 
+- [Deep Learning YouTube Videos](https://www.youtube.com/watch?v=Mubj_fqiAv8&list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
 
-- [Neural Network for Handwritten Digits Classification](https://colab.research.google.com/drive/1aiYk1AJPb9qckglUctL6mqE7QUdWW4cb?usp=sharing)
-
-## Convolution Pooling and Feature Map 
-
-## Recurrent Neural Networks 
-
-## Deep Learning Libraries for Real-World AI 
-
-## Google Colab 
-
-## TensorFlow, PyTorch and Keras
 
