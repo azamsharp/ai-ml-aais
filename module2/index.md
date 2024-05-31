@@ -34,8 +34,8 @@ conda activate [path to the environment]
 
 ### Logistic Regression
 
+- [What is Sigmoid Function - Mohammad Azam](https://youtu.be/0BtMH3xzovg)
 - [Heart Disease Activity](/module2/resources/heart-disease-activity.md)
-
 - [Logistic Regression - Cancer Diagnostics](resources/cancer-diagnostics.md)
 
 ### K-Nearest Neighbors 
