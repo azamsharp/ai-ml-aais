@@ -6,3 +6,8 @@
 - [What is Sigmoid Function - Mohammad Azam](https://youtu.be/0BtMH3xzovg)
 - [What is the purpose of layers in Deep Learning?](resources/purpose-of-layers.md)
 
+### Matrix Multiplication 
+
+- [How to Multiply Matrices](https://www.mathsisfun.com/algebra/matrix-multiplying.html)
+- [Matrix Math - Activity](resources/matrix-math-activity.md)
+
