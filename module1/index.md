@@ -23,6 +23,8 @@
 
 - [Class Code](https://gist.github.com/azamsharp/741fcd6305446228d695ef02268f3d5e)
 
+- [Array and Loops Exercises](resources/arrays-loops.md)
+
 --- 
 ## Dictionaries in Python  
 
