@@ -11,3 +11,7 @@
 - [How to Multiply Matrices](https://www.mathsisfun.com/algebra/matrix-multiplying.html)
 - [Matrix Math - Activity](resources/matrix-math-activity.md)
 
+### Loss and Cost Functions 
+
+- [Activity - Implement the Mean Absolute Error Function](resources/mae.md)
+
