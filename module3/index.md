@@ -15,3 +15,7 @@
 
 - [Activity - Implement the Mean Absolute Error Function](resources/mae.md)
 
+### Convolutional Neural Networks 
+
+- [Simple explanation of convolutional neural network | Deep Learning Tutorial 23 (Tensorflow & Python)](https://youtu.be/zfiSAzpy9NM?si=tY3RMyXA_BmmN8MN)
+

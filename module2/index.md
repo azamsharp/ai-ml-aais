@@ -10,16 +10,13 @@ conda env list
 conda activate [path to the environment]
 ```
 
-
 ## Machine Learning  
 
 - Machine Learning Categories 
 - Machine Learning Toolbox 
 - Pandas 
 
-
 - [Download Class Code Pandas](resources/pandas-302.ipynb)
-
 - [Matplotlib Official Website](https://matplotlib.org/)
 
 ### Linear Regression
@@ -35,6 +32,7 @@ conda activate [path to the environment]
 ### Logistic Regression
 
 - [What is Sigmoid Function - Mohammad Azam](https://youtu.be/0BtMH3xzovg)
+- [Understanding Gradient Descent]
 - [Heart Disease Activity](/module2/resources/heart-disease-activity.md)
 - [Logistic Regression - Cancer Diagnostics](resources/cancer-diagnostics.md)
 
