@@ -18,4 +18,5 @@
 ### Convolutional Neural Networks 
 
 - [Simple explanation of convolutional neural network | Deep Learning Tutorial 23 (Tensorflow & Python)](https://youtu.be/zfiSAzpy9NM?si=tY3RMyXA_BmmN8MN)
+- [Image classification using CNN (CIFAR10 dataset) | Deep Learning Tutorial 24 (Tensorflow & Python)](https://youtu.be/7HPwo4wnJeA?si=_7TTimR_EwM3e0zD)
 

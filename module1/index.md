@@ -36,7 +36,7 @@
 - [Activities - Dictionary](/module1/resources/dictionaries.md)
 - [Class Code](https://gist.github.com/azamsharp/47e034509d8f5e701d65c4e0c80bb8ce)
 - [Pool Table Project](/module1/resources/pool-table.md)
-
+- [Sets Activity](/module1/resources/sets-activity.md)
 
 ## Classes and Objects 
 ---
