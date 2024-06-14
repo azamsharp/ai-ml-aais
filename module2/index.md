@@ -19,6 +19,8 @@ conda activate [path to the environment]
 - [Download Class Code Pandas](resources/pandas-302.ipynb)
 - [Matplotlib Official Website](https://matplotlib.org/)
 
+### Pandas Exercises 
+
 ### Linear Regression
 - [House Prices Class Work](https://colab.research.google.com/drive/1KF9jFLm59cp_9ZNkFFuRXgsBYL5IVO6B?usp=sharing)
 - [Activity - One Hot Encoding](resources/one-hot-encoding.md)
