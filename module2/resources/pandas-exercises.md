@@ -39,4 +39,58 @@ Replace the missing value with the average temperature of the other values (excl
 
 Print the Series again to confirm the missing value is replaced.
 
+### Exercise 5: Data Selection and Filtering
 
+Task:
+
+```
+data = {
+    'Name': ['Alice', 'Bob', 'Charlie', 'David', 'Edward'],
+    'Age': [24, 27, 22, 32, 29],
+    'City': ['New York', 'Los Angeles', 'Chicago', 'Houston', 'Phoenix']
+}
+```
+
+```
+Select the 'Name' column.
+Select rows where the 'Age' is greater than 25.
+Select rows where 'City' is 'Chicago' or 'Phoenix'.
+```
+
+### Exercise 6: DataFrame Modification
+
+Task:
+
+Add a new column 'Salary' with arbitrary values.
+
+Modify the 'Age' column by adding 2 to each value.
+
+Drop the 'City' column.
+
+### Exercise 7: Grouping and Aggregation
+Task:
+
+Group the DataFrame by 'City' and calculate the mean 'Age' for each group.
+
+Group by 'City' and calculate the sum of 'Salary' for each group.
+
+### Exercise 8: Handling Missing Data
+
+Task:
+
+Introduce some missing values into the DataFrame.
+
+Fill the missing values with a default value.
+
+Drop rows with any missing values.
+
+
+### Exercise 9: Merging and Joining DataFrames
+
+Task:
+
+Create another DataFrame with 'Name' and 'Department' columns.
+
+Merge the two DataFrames on the 'Name' column.
+
+Perform a left join on the two DataFrames.
