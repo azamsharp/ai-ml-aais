@@ -28,8 +28,13 @@ conda activate [path to the environment]
 - [Pandas Exercises](resources/pandas-exercises.md)
 - [Car Prices Activity](/module2/resources/car-prices-activity.md)
 - [Carvana Activity](/module2/resources/carvana-activity.md)
+- [Covid Cases](resources/covid-cases.md)
 
+### Data Visualization 
 
+[Matplotlib Exercises](resources/matplotlib-intro.md)
+
+[Real-World Exercise: Analyzing Sales Data](resources/amazing-sales-data.md)
 
 ### Linear Regression
 - [House Prices Class Work](https://colab.research.google.com/drive/1KF9jFLm59cp_9ZNkFFuRXgsBYL5IVO6B?usp=sharing)
