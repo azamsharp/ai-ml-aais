@@ -27,3 +27,7 @@
 - [Understanding LTSM](../Slides/Deep%20Learning/lstm.key)
 - [Converting Word to Numbers](../Slides/Deep%20Learning/converting-words-to-numbers.key)
 - [Converting Word to Numbers (Continued)](../Slides/Deep%20Learning/word-embedding-using-keras.key)
+
+#### Code 
+
+- [Word to Numbers Using one_hot Encoding](resources/word-2-numbers.ipynb)
