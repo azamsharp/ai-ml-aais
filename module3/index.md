@@ -31,3 +31,13 @@
 #### Code 
 
 - [Word to Numbers Using one_hot Encoding](resources/word-2-numbers.ipynb)
+
+### Deep Learning Libraries for Real-World AI 
+
+#### Exercises 
+
+- [Passport Requirements]()
+
+#### Slides 
+
+- [Introduction to TensorFlow](../Slides/Deep%20Learning/intro-tensor-flow.key)
