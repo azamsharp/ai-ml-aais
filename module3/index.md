@@ -36,7 +36,8 @@
 
 #### Exercises 
 
-- [Passport Requirements]()
+- [Passport Requirements](resources/passport-requirements.md)
+- [Fashion DataSet](resources/fashion-dataset.md)
 
 #### Slides 
 
