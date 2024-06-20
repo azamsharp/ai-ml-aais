@@ -37,11 +37,17 @@ conda activate [path to the environment]
 [Real-World Exercise: Analyzing Sales Data](resources/amazing-sales-data.md)
 
 ### Linear Regression
-- [House Prices Class Work](https://colab.research.google.com/drive/1KF9jFLm59cp_9ZNkFFuRXgsBYL5IVO6B?usp=sharing)
-- [Activity - One Hot Encoding](resources/one-hot-encoding.md)
 
+- [Linear Regression Home Prices](resources/intro-linear-regression.md)
 - [House Prices (fillna) Activity](/module2/resources/house-prices-fillna.md)
+- [Coffee Sleep - Train and Test](resources/coffee-sleep-train-test.md)
 
+<!-- 
+- [House Prices Class Work](https://colab.research.google.com/drive/
+1KF9jFLm59cp_9ZNkFFuRXgsBYL5IVO6B?usp=sharing)
+--> 
+
+- [Activity - One Hot Encoding](resources/one-hot-encoding.md)
 - [Activity - Student Scores](resources/student-scores-graph.md)
 - [Activity - Monthly Sales](resources/monthly-sales.md)
 
