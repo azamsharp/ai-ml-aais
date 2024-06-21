@@ -14,7 +14,7 @@ conda activate [path to the environment]
 
 - Machine Learning Categories 
 - Machine Learning Toolbox 
-- Pandas 
+- Pandas
 
 - [Download Class Code Pandas](resources/pandas-302.ipynb)
 - [Matplotlib Official Website](https://matplotlib.org/)
