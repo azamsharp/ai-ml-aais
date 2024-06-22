@@ -118,4 +118,5 @@ conda env list
 conda activate [path to the environment]
 ```
 
-- [Introduction to Numpy]()
+- [Slides - Introduction to Numpy](../Slides/introduction-to-numpy.key)
+- [Code - Introduction to Numpy](resources/introduction-to-numpy.md)
