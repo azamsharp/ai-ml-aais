@@ -107,4 +107,15 @@
 - [Class Code 09-16-2022](https://gist.github.com/azamsharp/6f4b443afe263c0c30815c8e05661306)
 - [GitHub YouTube Videos](https://www.youtube.com/watch?v=Kc1L-TQjZZY&list=PLDMXqpbtInQiSpxYyd8AxmJCVE7equijT)
 
+### Python and Artificial Intelligence
 
+- [Slides - Introduction to AI and Machine Learning](../Slides/202-Module-5-Introduction-to-AI-and-ML.key)
+- [Download Mini Conda](https://docs.anaconda.com/free/miniconda/index.html)
+
+```
+conda create --prefix ./env pandas numpy matplotlib scikit-learn jupyter
+conda env list 
+conda activate [path to the environment]
+```
+
+- [Introduction to Numpy]()
