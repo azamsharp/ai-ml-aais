@@ -32,12 +32,12 @@ conda activate [path to the environment]
 
 ### Data Visualization 
 
-[Matplotlib Exercises](resources/matplotlib-intro.md)
-
-[Real-World Exercise: Analyzing Sales Data](resources/amazing-sales-data.md)
+- [Matplotlib Exercises](resources/matplotlib-intro.md)
+- [Real-World Exercise: Analyzing Sales Data](resources/amazing-sales-data.md)
 
 ### Linear Regression
 
+- [Slides](../Slides/intro-linear-regression.key)
 - [Linear Regression Home Prices](resources/intro-linear-regression.md)
 - [House Prices (fillna) Activity](/module2/resources/house-prices-fillna.md)
 - [Coffee Sleep - Train and Test](resources/coffee-sleep-train-test.md)
