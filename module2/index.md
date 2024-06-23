@@ -57,6 +57,7 @@ conda activate [path to the environment]
 - [Understanding Gradient Descent]
 - [Heart Disease Activity](/module2/resources/heart-disease-activity.md)
 - [Logistic Regression - Cancer Diagnostics](resources/cancer-diagnostics.md)
+- [Diabetes Prediction](resources/diabetes-prediction.md)
 
 ### K-Nearest Neighbors 
 
