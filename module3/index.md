@@ -7,8 +7,11 @@
 
 
 ### Deep Learning 
+- [Slides](../Slides/Deep%20Learning/intro-deep-learning.key)
 - [TensorFlow Playground](https://playground.tensorflow.org/)
-
+- [Coffee and Sleep](resources/coffee-sleep.md)
+- [Employee Attribution](resources/employee-attribution.md)
+- [Loan Default](resources/loan-default.md)
 
 ### Matrix Multiplication 
 
