@@ -120,3 +120,4 @@ conda activate [path to the environment]
 
 - [Slides - Introduction to Numpy](../Slides/introduction-to-numpy.key)
 - [Code - Introduction to Numpy](resources/introduction-to-numpy.md)
+- [Numpy Exercises](resources/numpy-exercises.md)
