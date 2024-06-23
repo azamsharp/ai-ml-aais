@@ -29,6 +29,7 @@ conda activate [path to the environment]
 - [Car Prices Activity](/module2/resources/car-prices-activity.md)
 - [Carvana Activity](/module2/resources/carvana-activity.md)
 - [Covid Cases](resources/covid-cases.md)
+- [DataFrame Missing Values Exercise](resources/dataframe-missing-values-exercises.md)
 
 ### Data Visualization 
 
@@ -53,6 +54,7 @@ conda activate [path to the environment]
 
 ### Logistic Regression
 
+- [Slides](../Slides/logistic-regression.key)
 - [What is Sigmoid Function - Mohammad Azam](https://youtu.be/0BtMH3xzovg)
 - [Understanding Gradient Descent]
 - [Heart Disease Activity](/module2/resources/heart-disease-activity.md)
@@ -62,11 +64,13 @@ conda activate [path to the environment]
 ### K-Nearest Neighbors 
 
 - [KNearest Neighbors Classification Article](https://www.freecodecamp.org/news/k-nearest-neighbors-algorithm-classifiers-and-model-example/)
+- [Predicting Customer Purchases](resources/predict-price-k-nearest.md)
 
 ### Decision Tree
 - [Churn Rate](resources/dt-activity.md)
 - [Movie Genre](resources/dt-movie-genre.md)
 - [Applicant Job Acceptance](resources/job-acceptance.md)
+- [Predicting Disease Presence with Decision Tree](resources/decision-tree.md)
 
 ### Practice Exercises 
 
@@ -80,14 +84,6 @@ conda activate [path to the environment]
 - [Practice Exercise Module 4B](resources/exercise-module4B.md) 
 - [Practice Exercise Module 5A](resources/exercise-module5A.md) 
 - [Practice Exercise Module 5B](resources/exercise-module5B.md) 
-
-
-## Supervised Learning, Classification, Regression and Decision Trees  
-
-- Show using Create ML about classification and regression. Cats vs Dogs (Classification), Home Prices (Regression)
-
-- Grouping mammal sleep habits using k-means clustering 
-- 10.2 Analyzing factors in forest fire data using PCA 
 
 
 
