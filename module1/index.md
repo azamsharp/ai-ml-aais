@@ -46,7 +46,7 @@
 - [Understanding Classes and Objects](https://www.dummies.com/programming/java/understanding-classes-and-objects/)
 - [Class Code](https://gist.github.com/azamsharp/ae761b3066295d03a1184a1074a6ebd8)
 - [Object Oriented Programming Exercises](resources/oop-exercises.md)
-
+- [Library Management Exercise](resources/library.md)
 
 
 <!-- 
