@@ -30,6 +30,7 @@ conda activate [path to the environment]
 - [Carvana Activity](/module2/resources/carvana-activity.md)
 - [Covid Cases](resources/covid-cases.md)
 - [DataFrame Missing Values Exercise](resources/dataframe-missing-values-exercises.md)
+- [Pandas Groupby Activity](resources/pandas-groupby-exercise.md)
 
 ### Data Visualization 
 
