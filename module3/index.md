@@ -11,8 +11,11 @@
 - [What is Deep Learning?](https://www.freecodecamp.org/news/deep-learning-neural-networks-explained-in-plain-english/)
 - [TensorFlow Playground](https://playground.tensorflow.org/)
 - [Coffee and Sleep](resources/coffee-sleep.md)
+- [Coffee and Sleep Code](code/coffee-and-sleep.ipynb)
 - [Employee Attribution](resources/employee-attribution.md)
 - [Loan Default](resources/loan-default.md)
+
+
 
 ### Matrix Multiplication 
 
