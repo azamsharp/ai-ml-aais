@@ -8,6 +8,7 @@
 
 ### Deep Learning 
 - [Slides](../Slides/Deep%20Learning/intro-deep-learning.key)
+- [What is Deep Learning?](https://www.freecodecamp.org/news/deep-learning-neural-networks-explained-in-plain-english/)
 - [TensorFlow Playground](https://playground.tensorflow.org/)
 - [Coffee and Sleep](resources/coffee-sleep.md)
 - [Employee Attribution](resources/employee-attribution.md)
