@@ -7,12 +7,13 @@
 
 
 ### Deep Learning Module 1 
-- Day 1 - [Slides](../Slides/Deep%20Learning/intro-deep-learning.key)
+- Day 1 - [Slides](../Slides/Deep%20Learning/intro-deep-learning.key) 
 - [What is Deep Learning?](https://www.freecodecamp.org/news/deep-learning-neural-networks-explained-in-plain-english/)
 - [TensorFlow Playground](https://playground.tensorflow.org/)
 - Day 2 - [Coffee and Sleep](resources/coffee-sleep.md)
 - [Coffee and Sleep Code](code/coffee-and-sleep.ipynb)
 - Day 3 - [Employee Attribution](resources/employee-attribution.md)
+- Day 3 - [Iris Flower Recognition](resources/iris-flower.md)
 - Day 4 - [Loan Default](resources/loan-default.md)
 
 ### Matrix Multiplication 
@@ -26,19 +27,26 @@
 
 ### Convolutional Neural Networks Module 2 
 
-- Day 1 - Slides 
+- [Day 1 - Slides](../Slides/Deep%20Learning/intro-to-cnn.key) 
 - [Simple explanation of convolutional neural network | Deep Learning Tutorial 23 (Tensorflow & Python)](https://youtu.be/zfiSAzpy9NM?si=tY3RMyXA_BmmN8MN)
 - Day 2 - [Image Classification Using CNN](resources/image-classification-using-cnn.md)
+- [Image Classification Code](resources/image-classification-cnn.ipynb)
 - [Image classification using CNN (CIFAR10 dataset) | Deep Learning Tutorial 24 (Tensorflow & Python)](https://youtu.be/7HPwo4wnJeA?si=_7TTimR_EwM3e0zD)
+- Day 3 - [Building a Simple Convolutional Neural Network (CNN) for Handwritten Digit Recognition](resources/hand-written.md)
+- [CNN for Handwritten Digit Recognition Solution](https://github.com/codebasics/deep-learning-keras-tf-tutorial/blob/master/16_cnn_cifar10_small_image_classification/cnn_mnist_exercise_solution.ipynb)
+- Day 4 - [Activity - Fashion Dataset](resources/fashion-cnn.md)
 
 ### Recurrent Neural Networks 
 
 #### Slides
-- [Understanding Recurrent Neural Networks](../Slides/Deep%20Learning/understanding-rnn.key)
-- [Vanishing and Exploding Gradient Problem](../Slides//Deep%20Learning/vanishing-gradient-problem.key)
-- [Understanding LTSM](../Slides/Deep%20Learning/lstm.key)
-- [Converting Word to Numbers](../Slides/Deep%20Learning/converting-words-to-numbers.key)
-- [Converting Word to Numbers (Continued)](../Slides/Deep%20Learning/word-embedding-using-keras.key)
+- Day 1 - [Understanding Recurrent Neural Networks](../Slides/Deep%20Learning/understanding-rnn.key)
+- Day 2 - [Vanishing and Exploding Gradient Problem](../Slides//Deep%20Learning/vanishing-gradient-problem.key)
+- Day 2 - [Understanding LTSM](../Slides/Deep%20Learning/lstm.key)
+- Day 2 - [Converting Word to Numbers](../Slides/Deep%20Learning/converting-words-to-numbers.key)
+- Day 2 - [Converting Word to Numbers (Continued)](../Slides/Deep%20Learning/word-embedding-using-keras.key)
+- Day 3 - Exercise: [Restaurant Reviews]
+- Day 4 - [Understanding Word2Vec]
+- Day 4 - [Implementing Word2Vec]
 
 #### Code 
 
@@ -54,3 +62,5 @@
 #### Slides 
 
 - [Introduction to TensorFlow](../Slides/Deep%20Learning/intro-tensor-flow.key)
+
+### Pre-Trained Models 
