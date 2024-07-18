@@ -47,6 +47,7 @@
 - Day 3 - Exercise: [Restaurant Reviews]
 - Day 4 - [Understanding Word2Vec]
 - Day 4 - [Implementing Word2Vec]
+- Day 4 - Code [Word2Vec](https://github.com/codebasics/deep-learning-keras-tf-tutorial/blob/master/42_word2vec_gensim/42_word2vec_gensim.ipynb)
 
 #### Code 
 
