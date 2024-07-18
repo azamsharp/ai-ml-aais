@@ -45,9 +45,9 @@
 - Day 2 - [Converting Word to Numbers](../Slides/Deep%20Learning/converting-words-to-numbers.key)
 - Day 2 - [Converting Word to Numbers (Continued)](../Slides/Deep%20Learning/word-embedding-using-keras.key)
 - Day 3 - Exercise: [Restaurant Reviews]
-- Day 4 - [Understanding Word2Vec]
 - Day 4 - [Implementing Word2Vec]
 - Day 4 - Code [Word2Vec](https://github.com/codebasics/deep-learning-keras-tf-tutorial/blob/master/42_word2vec_gensim/42_word2vec_gensim.ipynb)
+- [Exercise Sports Dataset](resources/sports-dataset.md)
 
 #### Code 
 
