@@ -44,15 +44,9 @@
 - Day 2 - [Understanding LTSM](../Slides/Deep%20Learning/lstm.key)
 - Day 2 - [Converting Word to Numbers](../Slides/Deep%20Learning/converting-words-to-numbers.key)
 - Day 2 - [Converting Word to Numbers (Continued)](../Slides/Deep%20Learning/word-embedding-using-keras.key)
-<<<<<<< HEAD
 - Day 3 - Code: [Restaurant Reviews](resources/res-reviews.ipynb)
 - Day 4 - [Understanding Word2Vec]
-=======
-- Day 3 - Exercise: [Restaurant Reviews]
->>>>>>> 1fa4ae9b187273de48f6ff504cd530021a003efd
 - Day 4 - [Implementing Word2Vec]
-- Day 4 - Code [Word2Vec](https://github.com/codebasics/deep-learning-keras-tf-tutorial/blob/master/42_word2vec_gensim/42_word2vec_gensim.ipynb)
-- [Exercise Sports Dataset](resources/sports-dataset.md)
 
 #### Code 
 
@@ -71,3 +65,6 @@
 - [Introduction to TensorFlow](../Slides/Deep%20Learning/intro-tensor-flow.key)
 
 ### Pre-Trained Models 
+
+- [What Is a Pretained AI Model?](https://blogs.nvidia.com/blog/what-is-a-pretrained-ai-model/) 
+- [Code - ResNet: Identifying Images](resources/resnet.ipynb)
