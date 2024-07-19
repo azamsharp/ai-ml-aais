@@ -44,7 +44,7 @@
 - Day 2 - [Understanding LTSM](../Slides/Deep%20Learning/lstm.key)
 - Day 2 - [Converting Word to Numbers](../Slides/Deep%20Learning/converting-words-to-numbers.key)
 - Day 2 - [Converting Word to Numbers (Continued)](../Slides/Deep%20Learning/word-embedding-using-keras.key)
-- Day 3 - Exercise: [Restaurant Reviews]
+- Day 3 - Code: [Restaurant Reviews](resources/res-reviews.ipynb)
 - Day 4 - [Understanding Word2Vec]
 - Day 4 - [Implementing Word2Vec]
 
@@ -56,6 +56,7 @@
 
 #### Exercises 
 
+- [Introduction to TensorFlow]
 - [Passport Requirements](resources/passport-requirements.md)
 - [Fashion DataSet](resources/fashion-dataset.md)
 
