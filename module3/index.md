@@ -65,3 +65,6 @@
 - [Introduction to TensorFlow](../Slides/Deep%20Learning/intro-tensor-flow.key)
 
 ### Pre-Trained Models 
+
+- [BERT]
+- [ResNet]
