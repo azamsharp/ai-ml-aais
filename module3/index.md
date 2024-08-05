@@ -44,10 +44,9 @@
 - Day 2 - [Understanding LTSM](../Slides/Deep%20Learning/lstm.key)
 - Day 2 - [Converting Word to Numbers](../Slides/Deep%20Learning/converting-words-to-numbers.key)
 - Day 2 - [Converting Word to Numbers (Continued)](../Slides/Deep%20Learning/word-embedding-using-keras.key)
-- Day 3 - Exercise: [Restaurant Reviews]
+- Day 3 - Code: [Restaurant Reviews](resources/res-reviews.ipynb)
+- Day 4 - [Understanding Word2Vec]
 - Day 4 - [Implementing Word2Vec]
-- Day 4 - Code [Word2Vec](https://github.com/codebasics/deep-learning-keras-tf-tutorial/blob/master/42_word2vec_gensim/42_word2vec_gensim.ipynb)
-- [Exercise Sports Dataset](resources/sports-dataset.md)
 
 #### Code 
 
@@ -57,6 +56,7 @@
 
 #### Exercises 
 
+- [Introduction to TensorFlow]
 - [Passport Requirements](resources/passport-requirements.md)
 - [Fashion DataSet](resources/fashion-dataset.md)
 
@@ -66,5 +66,12 @@
 
 ### Pre-Trained Models 
 
+<<<<<<< HEAD
 - [BERT]
 - [ResNet]
+=======
+- Slides [Understanding Pre-Trained Models](../Slides/Deep%20Learning/introduction-to-pre-trained-models.key)
+- [What Is a Pretained AI Model?](https://blogs.nvidia.com/blog/what-is-a-pretrained-ai-model/) 
+- [Code - ResNet: Identifying Images](resources/resnet.ipynb)
+- [BERT Language Model](https://www.techtarget.com/searchenterpriseai/definition/BERT-language-model)
+>>>>>>> 4e384a6a37bdfb34bdbd040c5b1af0090875d33d
