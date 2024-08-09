@@ -66,7 +66,12 @@
 
 ### Pre-Trained Models 
 
+<<<<<<< HEAD
+- [BERT]
+- [ResNet]
+=======
 - Slides [Understanding Pre-Trained Models](../Slides/Deep%20Learning/introduction-to-pre-trained-models.key)
 - [What Is a Pretained AI Model?](https://blogs.nvidia.com/blog/what-is-a-pretrained-ai-model/) 
 - [Code - ResNet: Identifying Images](resources/resnet.ipynb)
 - [BERT Language Model](https://www.techtarget.com/searchenterpriseai/definition/BERT-language-model)
+>>>>>>> 4e384a6a37bdfb34bdbd040c5b1af0090875d33d

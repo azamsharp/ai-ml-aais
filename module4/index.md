@@ -5,10 +5,10 @@
 
 - [Day 1 - Introduction to NLP Slides](../Slides/NLPAndComputerVision/intro-nlp.key)
 - [Day 2 - Regex101.com](https://regex101.com/)
-- [Day 2 - Regex to Extract Words from Text]()
-- [Day 2 - Activity: Regex Using Python]
-- [Day 3 - Introduction to Computer Vision]
-- [Day 4 - Computer Vision Dogs vs Cats Classification](resources/cats-dogs-classification.ipynb)
+- [Day 2 - Activity: Regex to Extract Emails from Text](resources/regex-to-extract-words-from-text.md)
+- [Day 2 - Activity: Regex to Extract Order Number from an Email](resources/regex-extract-order-number.md)
+- [Day 3 - Introduction to Computer Vision Slides](../Slides/NLPAndComputerVision/intro-computer-vision.key)
+- [Day 4 - Computer Vision Dogs vs Cats](resources/cats-dogs-classification.ipynb)
 
 ### Module 2 - Exploring Sequence-to-Sequence Models in NLP 
 
