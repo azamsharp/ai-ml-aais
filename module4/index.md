@@ -12,10 +12,13 @@
 
 ### Module 2 - Exploring Sequence-to-Sequence Models in NLP 
 
+- [Slides of where S2S models are being used.]
 - [Named Entity Recognition Using Python Code]() 
 - [Named Entity Recognition Using Spacy]()
 
 ### Module 3 -  Creating Domain-Specific Chatbots with NLP 
+
+- [What are Chatbots?]() 
 
 ### Module 4 - Object Detection for Real-World Applications
 
