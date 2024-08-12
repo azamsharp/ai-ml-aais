@@ -1,6 +1,5 @@
 # Module 5 - NLP and Computer Vision 
 
-
 ### Module 1 (NLP and Computer Vision)
 
 - [Day 1 - Introduction to NLP Slides](../Slides/NLPAndComputerVision/intro-nlp.key)
@@ -12,11 +11,18 @@
 
 ### Module 2 - Exploring Sequence-to-Sequence Models in NLP 
 
+- [Day 1 - Sequence-to-Sequence Models Slides]() 
+- [Day 1 - Language Translation Text SlideShare]() 
+- [Day 2 - Language Translation Using Python Code](resources/language-translation.ipynb)
 - [Named Entity Recognition Using Python Code]() 
 - [Named Entity Recognition Using Spacy]()
 
-### Module 3 -  Creating Domain-Specific Chatbots with NLP 
+### Module 3 -  Creating Domain-Specific Chatbots with NLP
+
+- [Day 1: What are Chatbots? Slides]()
 
 ### Module 4 - Object Detection for Real-World Applications
+
+- [Day 1 - Understanding Object Detection Slides]() 
 
 ### Module 5 - Solving Video Analysis Challenges: Strategies and Optimizations 
