@@ -11,13 +11,9 @@
 
 ### Module 2 - Exploring Sequence-to-Sequence Models in NLP 
 
-<<<<<<< HEAD
-- [Slides of where S2S models are being used.]
-=======
 - [Day 1 - Sequence-to-Sequence Models Slides]() 
-- [Day 1 - Language Translation Text SlideShare]() 
+- [Day 1 - Language Translation Text SlideShare](../Slides/language-translation.key) 
 - [Day 2 - Language Translation Using Python Code](resources/language-translation.ipynb)
->>>>>>> 842d44df6ed21cb72ac6280c9f0a570f14a0c30f
 - [Named Entity Recognition Using Python Code]() 
 - [Named Entity Recognition Using Spacy]()
 
