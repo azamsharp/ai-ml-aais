@@ -12,10 +12,12 @@
 ### Module 2 - Exploring Sequence-to-Sequence Models in NLP 
 
 - [Day 1 - Sequence-to-Sequence Models Slides]() 
+- [Explain How WordToVec Works]
 - [Day 1 - Language Translation Text SlideShare](../Slides/language-translation.key) 
 - [Day 2 - Language Translation Using Python Code](resources/language-translation.ipynb)
-- [Named Entity Recognition Using Python Code]() 
-- [Named Entity Recognition Using Spacy]()
+- [Day 3]
+- [Day 3]
+
 
 ### Module 3 -  Creating Domain-Specific Chatbots with NLP
 
@@ -25,6 +27,8 @@
 
 ### Module 4 - Object Detection for Real-World Applications
 
-- [Day 1 - Understanding Object Detection Slides]() 
+- [Day 1 - Understanding Object Detection Slides](../Slides/introduction-computer-vision.key) 
+- [Day 1 - 10+ Applications of Object Detection Technology in Various Industries](https://smarttek.solutions/blog/object-detection-technology/)
+- [Day 2 - Object Detection Using YOLO](resources/object-detection.ipynb)
 
 ### Module 5 - Solving Video Analysis Challenges: Strategies and Optimizations 
