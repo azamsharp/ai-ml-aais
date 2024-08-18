@@ -22,7 +22,6 @@
 ### Module 3 -  Creating Domain-Specific Chatbots with NLP
 
 - [Day 1: What are Chatbots? Slides]()
-
 - [What are Chatbots?]() 
 
 ### Module 4 - Object Detection for Real-World Applications
