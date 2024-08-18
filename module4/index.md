@@ -2,22 +2,21 @@
 
 ### Module 1 (NLP and Computer Vision)
 
-- [Day 1 - Introduction to NLP Slides](../Slides/NLPAndComputerVision/intro-nlp.key)
-- [Day 2 - Regex101.com](https://regex101.com/)
-- [Day 2 - Activity: Regex to Extract Emails from Text](resources/regex-to-extract-words-from-text.md)
-- [Day 2 - Activity: Regex to Extract Order Number from an Email](resources/regex-extract-order-number.md)
+- [Day 1 - Regex101.com](https://regex101.com/)
+- [Day 1 - Activity: Regex to Extract Emails from Text](resources/regex-to-extract-words-from-text.md)
+- [Day 1 - Activity: Regex to Extract Order Number from an Email](resources/regex-extract-order-number.md)
+- [Day 2 - Introduction to NLP Slides](../Slides/NLPAndComputerVision/intro-nlp.key)
 - [Day 3 - Introduction to Computer Vision Slides](../Slides/NLPAndComputerVision/intro-computer-vision.key)
+- [Day 3 - Computer Vision Examples]() 
 - [Day 4 - Computer Vision Dogs vs Cats](resources/cats-dogs-classification.ipynb)
 
 ### Module 2 - Exploring Sequence-to-Sequence Models in NLP 
 
+- [Day 1 - Word Tokenization Spacy vs NLTK]()
+
 - [Day 1 - Sequence-to-Sequence Models Slides]() 
-<<<<<<< HEAD
-- [Day 2 - Language Translation Text SlideShare](../Slides/language-translation.key) 
-=======
 - [Explain How WordToVec Works]
 - [Day 1 - Language Translation Text SlideShare](../Slides/language-translation.key) 
->>>>>>> 0056f2a4cf0307e6079e09de1318544fb0e9544d
 - [Day 2 - Language Translation Using Python Code](resources/language-translation.ipynb)
 - [Day 3]
 - [Day 3]
