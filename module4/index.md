@@ -12,7 +12,9 @@
 
 ### Module 2 - Exploring Sequence-to-Sequence Models in NLP 
 
-- [Day 1 - Word Tokenization Spacy vs NLTK]()
+- [Day 1 - Spacy vs NLTK](../Slides/spacy-vs-nltk.key)
+- [Day 1](resources/nltk-vs-spacy.ipynb)
+- [Day 2 - Word Tokenization Using Spacy]()
 
 - [Day 1 - Sequence-to-Sequence Models Slides]() 
 - [Explain How WordToVec Works]
