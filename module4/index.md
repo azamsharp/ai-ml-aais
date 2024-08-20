@@ -7,22 +7,19 @@
 - [Day 1 - Activity: Regex to Extract Order Number from an Email](resources/regex-extract-order-number.md)
 - [Day 2 - Introduction to NLP Slides](../Slides/NLPAndComputerVision/intro-nlp.key)
 - [Day 3 - Introduction to Computer Vision Slides](../Slides/NLPAndComputerVision/intro-computer-vision.key)
-- [Day 3 - Computer Vision Examples]() 
+- [Day 3 - Computer Vision Examples](https://builtin.com/machine-learning/computer-vision) 
 - [Day 4 - Computer Vision Dogs vs Cats](resources/cats-dogs-classification.ipynb)
 
 ### Module 2 - Exploring Sequence-to-Sequence Models in NLP 
 
 - [Day 1 - Spacy vs NLTK](../Slides/spacy-vs-nltk.key)
-- [Day 1](resources/nltk-vs-spacy.ipynb)
+- [Day 1 NLTK vs Spacy Code ](resources/nltk-vs-spacy.ipynb)
 - [Day 2 - Word Tokenization Using Spacy]()
-
-- [Day 1 - Sequence-to-Sequence Models Slides]() 
-- [Explain How WordToVec Works]
-- [Day 1 - Language Translation Text SlideShare](../Slides/language-translation.key) 
-- [Day 2 - Language Translation Using Python Code](resources/language-translation.ipynb)
-- [Day 3]
-- [Day 3]
-
+- [Day 2 - Word Tokenization Using Spacy Class Work](resources/tokenization-spacy.ipynb)
+- [Day 3 - Language Translation Text SlideShare](../Slides/language-translation.key) 
+- [Day 3 - Language Translation Using Python Code](resources/language-translation.ipynb)
+- [Day 4 Text Summarization Slides](../Slides/intro-text-summarization.key) 
+- [Day 4 Text Summarization Code in Swift](resources/SummarizationApp/)
 
 ### Module 3 -  Creating Domain-Specific Chatbots with NLP
 
