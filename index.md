@@ -6,6 +6,7 @@
 - [AAIS-302: Artificial Intelligence, Machine Learning, and Data Science Programming with Python](module2/index.md)
 
 - [AAIS-312: Deep Learning](module3/index.md)
+- [AAIS-322: NLP & Computer Vision](module4/index.md)
 
 <!-- 
 - [Week 4 - JavaScript, HTML Manipulation, Events, Callbacks](week4/index.md)
