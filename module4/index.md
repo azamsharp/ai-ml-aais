@@ -1,13 +1,19 @@
 # Module 5 - NLP and Computer Vision 
 
+### NLP and Computer Vision Videos Playlist
+https://www.youtube.com/playlist?list=PLDMXqpbtInQjc5-xa5B40Y1wZbIsxCIOk
+
+---
+
 ### Module 1 (NLP and Computer Vision)
 
 - [Day 1 - Regex101.com](https://regex101.com/)
 - [Day 1 - Activity: Regex to Extract Emails from Text](resources/regex-to-extract-words-from-text.md)
 - [Day 1 - Activity: Regex to Extract Order Number from an Email](resources/regex-extract-order-number.md)
 - [Day 2 - Introduction to NLP Slides](../Slides/NLPAndComputerVision/intro-nlp.key)
-- [Day 3 - Introduction to Computer Vision Slides](../Slides/NLPAndComputerVision/intro-computer-vision.key)
-- [Day 3 - Computer Vision Examples](https://builtin.com/machine-learning/computer-vision) 
+- [Day 2 - Entity Name Recognition Using Spacy]()
+- [Day 4 - Introduction to Computer Vision Slides](../Slides/NLPAndComputerVision/intro-computer-vision.key)
+- [Day 4 - Computer Vision Examples](https://builtin.com/machine-learning/computer-vision) 
 - [Day 4 - Computer Vision Dogs vs Cats](resources/cats-dogs-classification.ipynb)
 
 ### Module 2 - Exploring Sequence-to-Sequence Models in NLP 
