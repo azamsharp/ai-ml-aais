@@ -13,15 +13,16 @@ https://www.youtube.com/playlist?list=PLDMXqpbtInQjc5-xa5B40Y1wZbIsxCIOk
 - [Day 2 - Introduction to NLP Slides](../Slides/NLPAndComputerVision/intro-nlp.key)
 - [Day 3 - Entity Name Recognition Using Spacy](resources/introduction-to-spacy.ipynb)
 - [Day 4 - Introduction to Computer Vision Slides](../Slides/NLPAndComputerVision/intro-computer-vision.key)
-- [Day 4 - Computer Vision Examples](https://builtin.com/machine-learning/computer-vision) 
+- [Day 4 - Computer Vision Resources](https://builtin.com/machine-learning/computer-vision) 
+- [Day 4 - Cats vs Dogs DataSet](https://www.kaggle.com/datasets/samuelcortinhas/cats-and-dogs-image-classification)
 - [Day 4 - Computer Vision Dogs vs Cats](resources/cats-dogs-classification.ipynb)
 
 ### Module 2 - Exploring Sequence-to-Sequence Models in NLP 
 
 - [Day 1 - Spacy vs NLTK](../Slides/spacy-vs-nltk.key)
 - [Day 1 NLTK vs Spacy Code ](resources/nltk-vs-spacy.ipynb)
-- [Day 2 - Word Tokenization Using Spacy]()
-- [Day 2 - Word Tokenization Using Spacy Class Work](resources/tokenization-spacy.ipynb)
+- [Day 2 - Word Tokenization Using Spacy]
+- [Day 2 - Word Tokenization Exercise](resources/word-tokenization-using-spacy.md)
 - [Day 3 - Language Translation Text SlideShare](../Slides/language-translation.key) 
 - [Day 3 - Language Translation Using Python Code](resources/language-translation.ipynb)
 - [Day 4 Text Summarization Slides](../Slides/intro-text-summarization.key) 
@@ -37,8 +38,14 @@ https://www.youtube.com/playlist?list=PLDMXqpbtInQjc5-xa5B40Y1wZbIsxCIOk
 
 ### Module 4 - Object Detection for Real-World Applications
 
+- [Day 1 - Object Detection: Concept and Significance]()
+- [Resource: Region Proposal Network (RPN) : A Complete Guide]
+(https://www.listendata.com/2022/06/region-proposal-network.html)
+- [Resource: Going Deep into Object Detection](https://towardsdatascience.com/going-deep-into-object-detection-bed442d92b34)
 - [Day 1 - Understanding Object Detection Slides](../Slides/introduction-computer-vision.key) 
 - [Day 1 - 10+ Applications of Object Detection Technology in Various Industries](https://smarttek.solutions/blog/object-detection-technology/)
-- [Day 2 - Object Detection Using YOLO](resources/object-detection.ipynb)
+- [Day 2 - How Object Detection Works?]()
+- [Day 3 - Object Detection Using YOLO](resources/object-detection.ipynb)
+- [Day 4 - Tools & Frameworks for Object Detection]()
 
 ### Module 5 - Solving Video Analysis Challenges: Strategies and Optimizations 
