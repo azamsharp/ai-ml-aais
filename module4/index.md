@@ -38,14 +38,14 @@ https://www.youtube.com/playlist?list=PLDMXqpbtInQjc5-xa5B40Y1wZbIsxCIOk
 
 ### Module 4 - Object Detection for Real-World Applications
 
-- [Day 1 - Object Detection: Concept and Significance]()
+- [Day 1 - Object Detection: Concept and Significance](../Slides/introduction-to-object-detection.key)
 - [Resource: Region Proposal Network (RPN) : A Complete Guide]
 (https://www.listendata.com/2022/06/region-proposal-network.html)
 - [Resource: Going Deep into Object Detection](https://towardsdatascience.com/going-deep-into-object-detection-bed442d92b34)
-- [Day 1 - Understanding Object Detection Slides](../Slides/introduction-computer-vision.key) 
-- [Day 1 - 10+ Applications of Object Detection Technology in Various Industries](https://smarttek.solutions/blog/object-detection-technology/)
-- [Day 2 - How Object Detection Works?]()
-- [Day 3 - Object Detection Using YOLO](resources/object-detection.ipynb)
+- [Day 2 - Understanding Object Detection Slides](../Slides/introduction-computer-vision.key) 
+- [Day 3 - 10+ Applications of Object Detection Technology in Various Industries](https://smarttek.solutions/blog/object-detection-technology/)
+- [Day 3 - How Autonomous Cars Work]()
+- [Day 4 - Object Detection Using YOLO](resources/object-detection.ipynb)
 - [Day 4 - Tools & Frameworks for Object Detection]()
 
 ### Module 5 - Solving Video Analysis Challenges: Strategies and Optimizations 
