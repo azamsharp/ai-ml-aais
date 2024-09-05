@@ -44,7 +44,7 @@ https://www.youtube.com/playlist?list=PLDMXqpbtInQjc5-xa5B40Y1wZbIsxCIOk
 - [Resource: Going Deep into Object Detection](https://towardsdatascience.com/going-deep-into-object-detection-bed442d92b34)
 - [Day 1 - Understanding Object Detection Slides](../Slides/introduction-computer-vision.key) 
 - [Day 1 - 10+ Applications of Object Detection Technology in Various Industries](https://smarttek.solutions/blog/object-detection-technology/)
-- [Day 2 - How Object Detection Works?]()
+- [Day 2 - How Tesla FSD Works?](https://x.com/pbeisel/status/1831315999037210900)
 - [Day 3 - Object Detection Using YOLO](resources/object-detection.ipynb)
 - [Day 4 - Tools & Frameworks for Object Detection]()
 
