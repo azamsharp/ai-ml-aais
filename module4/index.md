@@ -30,10 +30,10 @@ https://www.youtube.com/playlist?list=PLDMXqpbtInQjc5-xa5B40Y1wZbIsxCIOk
 
 ### Module 3 -  Creating Domain-Specific Chatbots with NLP
 
-- [Day 1 - What are Chatbots? Slides]()
-- [Day 2 - Named Entity Recognition]() 
-- [Day 3 - Chatbots Implementation]() 
-- [Day 4 - Chatbots Implementation]() 
+- Day 1 - What are Chatbots? Show Demo
+- [Day 2 - Implementing Flow Based ChatBot in Python]()
+- [Day 3 - Building Chatbots Using DialogFlow]() 
+- [Day 4 - Building Chatbots Using DialogFlow]() 
 
 
 ### Module 4 - Object Detection for Real-World Applications
