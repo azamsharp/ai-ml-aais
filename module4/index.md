@@ -31,7 +31,7 @@ https://www.youtube.com/playlist?list=PLDMXqpbtInQjc5-xa5B40Y1wZbIsxCIOk
 ### Module 3 -  Creating Domain-Specific Chatbots with NLP
 
 - [Day 1 - What are Chatbots? Slides]()
-- [Day 2 - Named Entity Recognition]() 
+
 - [Day 3 - Chatbots Implementation]() 
 - [Day 4 - Chatbots Implementation]() 
 
@@ -46,6 +46,5 @@ https://www.youtube.com/playlist?list=PLDMXqpbtInQjc5-xa5B40Y1wZbIsxCIOk
 - [Day 3 - 10+ Applications of Object Detection Technology in Various Industries](https://smarttek.solutions/blog/object-detection-technology/)
 - [Day 3 - How Autonomous Cars Work]()
 - [Day 4 - Object Detection Using YOLO](resources/object-detection.ipynb)
-- [Day 4 - Tools & Frameworks for Object Detection]()
 
 ### Module 5 - Solving Video Analysis Challenges: Strategies and Optimizations 
