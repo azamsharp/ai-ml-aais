@@ -30,11 +30,12 @@ https://www.youtube.com/playlist?list=PLDMXqpbtInQjc5-xa5B40Y1wZbIsxCIOk
 
 ### Module 3 -  Creating Domain-Specific Chatbots with NLP
 
-- [Day 1 - What are Chatbots? Slides]()
-
-- [Day 3 - Chatbots Implementation]() 
-- [Day 4 - Chatbots Implementation]() 
-
+-  Day 1 - What are Chatbots? Show Demo
+-  Day 2 - Implementing Flow Based ChatBot in Python
+-  Day 3 - Building Chatbots Using DialogFlow
+-  Day 4 - Building Chatbots Using DialogFlow
+- [Resource: End-to-End NLP Project | Build a Chatbot in Dialogflow | NLP Tutorial | S3 E2](https://youtu.be/2e5pQqBvGco?si=ngV4JXZVPBx7L29y)
+- [Resource: DialogFlow](https://cloud.google.com/dialogflow?hl=en)
 
 ### Module 4 - Object Detection for Real-World Applications
 
@@ -48,3 +49,8 @@ https://www.youtube.com/playlist?list=PLDMXqpbtInQjc5-xa5B40Y1wZbIsxCIOk
 - [Day 4 - Object Detection Using YOLO](resources/object-detection.ipynb)
 
 ### Module 5 - Solving Video Analysis Challenges: Strategies and Optimizations 
+
+- [Day 1 - Introduction to Real-World Video Analysis Challenges](../Slides/day1-real-world-video-challenges.key)
+- [Day 2 - Algorithm Optimizations for Video Analysis](../Slides/day2-algo-optimizations.key)
+- [Day 3 - Real-Time Processing and AI Integration](../Slides/day3-realtime-processing.key)
+- [Day 4 ]
