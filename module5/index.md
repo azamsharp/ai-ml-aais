@@ -13,6 +13,8 @@
 
 ### Module 1 (MDP Essentials: States, Actions, Rewards, Transitions)
 
+- [Day 1 - Introduction to Reinforcement Learning](../Slides/module5-day1-introduction-to-reinforcement-learning.key)
+
 - [Resource: Reinforcement Learning: Crash Course AI #9](https://www.youtube.com/watch?v=nIgIv4IfJ6s)
 
 https://www.youtube.com/watch?v=zdIQkjtFX_I&list=PLKnIA16_RmvbMK0_fdp0DZHZKm4Q1slAB
