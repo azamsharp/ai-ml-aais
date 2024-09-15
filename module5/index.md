@@ -16,7 +16,7 @@
 - [Day 1 - Introduction to Reinforcement Learning](../Slides/module5-day1-introduction-to-reinforcement-learning.key)
 
 - [Day 2 - Markov Principle](../Slides/module5-day2-mdp.key)
-- [Day 3 - Monty Carlo Principle](../Slides/module5-day3.key)
+- [Day 3 - Monte Carlo Methods](../Slides/module5-day3.key)
 
 - [Resource: Reinforcement Learning: Crash Course AI #9](https://www.youtube.com/watch?v=nIgIv4IfJ6s)
 
