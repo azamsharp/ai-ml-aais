@@ -14,9 +14,11 @@
 ### Module 1 (MDP Essentials: States, Actions, Rewards, Transitions)
 
 - [Day 1 - Introduction to Reinforcement Learning](../Slides/module5-day1-introduction-to-reinforcement-learning.key)
-
 - [Day 2 - Markov Principle](../Slides/module5-day2-mdp.key)
 - [Day 3 - Monte Carlo Methods](../Slides/module5-day3.key)
+- [Day 4 - Reinforcement Learning Real World Examples]
+
+- [Resource - Introduction to Reinforcement Learning](https://medium.com/@cedric.vandelaer/reinforcement-learning-an-introduction-part-1-4-866695deb4d1)
 
 - [Resource: Reinforcement Learning: Crash Course AI #9](https://www.youtube.com/watch?v=nIgIv4IfJ6s)
 
