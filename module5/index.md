@@ -28,3 +28,10 @@ https://www.youtube.com/watch?v=zdIQkjtFX_I&list=PLKnIA16_RmvbMK0_fdp0DZHZKm4Q1s
 Reinforcement Learning Playlist: 
 https://www.youtube.com/watch?v=0MNVhXEX9to&list=PLMrJAkhIeNNQe1JXNvaFvURxGY4gE9k74
 
+### Module 2 Exploring Q-Learning and Policy Gradient Principles 
+
+[Day 1 - Introduction to Q-Learning](https://docs.google.com/presentation/d/1dCgbuzJx7Gn820lrce6adOAATxj73pCSyUvUgLjd6LA/edit?usp=sharing)
+
+[Day 2 - Diving Deeper into Q-Learning](../Slides/module5-day2-diving-deeper.key)
+
+
